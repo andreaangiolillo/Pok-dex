@@ -3,7 +3,7 @@ import (
 	"fmt"
 	"bufio"
 	"os"
-	"github.com/andreaangiolillo/Pok-dex/pokedexcli/repl"
+	"github.com/andreaangiolillo/Pok-dex/pokedexcli/internal/repl"
 	"github.com/andreaangiolillo/Pok-dex/pokedexcli/internal/pokecache"
 	"net/http"
 	"io"
