@@ -63,8 +63,8 @@ Location-area names are provided by the PokéAPI. You can get a valid name from 
 ```text
 .
 ├── main.go                 # CLI, commands, and PokéAPI integration
-├── repl/                   # Input cleaning and REPL tests
-└── internal/pokecache/     # In-memory response cache
+├── internal/pokecache/     # In-memory response cache
+└── internal/repl/          # Clean up user's input
 ```
 
 ## Testing
